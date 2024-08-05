@@ -1,1 +1,1 @@
-library opencv2
+opencv2
